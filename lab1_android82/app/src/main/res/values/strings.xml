@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">lab1_android8</string>
+    <string name="podaj_imie">Podaj imie</string>
+    <string name="liczba_ocen">Liczba ocen:</string>
+    <string name="nazwisko">Nazwisko:</string>
+    <string name="podaj_nazwisko">Podaj nazwisko</string>
+    <string name="button">Button</string>
+    <string name="oceny">Podaj liczbe ocen [5, 15]</string>
+    <string name="imie">Imie:</string>
+    <string-array name="subjects">
+        <item>Fiz</item>
+        <item>Mat</item>
+        <item>Pol</item>
+        <item>Ang</item>
+        <item>Rus</item>
+        <item>His</item>
+        <item>WOS</item>
+        <item>Inf</item>
+        <item>PP</item>
+        <item>WF</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>Pyt</item>
+        <item>PHP</item>
+    </string-array>
+</resources>
